@@ -1,0 +1,19 @@
+# Recommended packages for running the notebooks in this repository.
+# Pin versions for reproducibility (e.g. `pip freeze > requirements.txt`) if desired.
+
+jupyter
+notebook
+ipykernel
+pandas
+numpy
+scipy
+scikit-learn
+matplotlib
+seaborn
+xgboost
+joblib
+openpyxl
+
+# Optional / helpful tools
+# pandas-profiling
+# seaborn-image
